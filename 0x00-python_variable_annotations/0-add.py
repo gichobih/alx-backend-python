@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-0-add module
-
-This module provides a simple function `add` to sum two float numbers
+"""simple function `add` to sum two float numbers
 with Python type annotations.
 """
 
