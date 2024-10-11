@@ -1,13 +1,7 @@
 #!/usr/bin/env python3
-"""add to sum two float numbers"""
+"""Type-annotated function add"""
+
 
 def add(a: float, b: float) -> float:
-    """
-    Returns the sum of two floating point numbers.
-
-    Args:
-        a (float): The first float number.
-        b (float): The second float number.
-
-    """
+    """Takes two floats and returns their sum as float"""
     return a + b
