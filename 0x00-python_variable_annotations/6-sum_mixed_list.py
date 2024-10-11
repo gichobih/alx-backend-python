@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """Type-annotated function sum_mixed_list"""
-
-
 from typing import List, Union
 
 
