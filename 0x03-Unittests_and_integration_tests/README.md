@@ -1,7 +1,6 @@
 ## 0x03. Unittests and Integration Tests
-`UnitTests` `Back-end` `Integration tests`
-
-[url = "https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/f088970b450e82c881ea.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241104T121558Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f7af3f41e798688e2e81282ca7552defd5f519f106e0eefd382c8824cd73b65f"]
+`UnitTests` `Back-end` `Integration test`
+![Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/f088970b450e82c881ea.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241104T121558Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f7af3f41e798688e2e81282ca7552defd5f519f106e0eefd382c8824cd73b65f)
 
 Unit testing is the process of testing that a particular function returns expected results for different set of inputs. 
 A unit test is supposed to test standard inputs and corner cases. A unit test should only test the logic defined inside the tested function. 
